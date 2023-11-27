@@ -65,7 +65,7 @@ body {
     color: hsl(220, 15%, 55%);
 }
 
-@media(max-width: 375px) {
+@media(max-width: 430px) {
     .container {
         height: 500px;
         width: 350px;
